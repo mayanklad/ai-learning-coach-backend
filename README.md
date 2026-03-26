@@ -16,4 +16,3 @@ This repository contains the backend for the AI-driven Personal Learning Coach. 
 - **Backend:** Python + FastAPI
 - **Database:** PostgreSQL + SQLAlchemy
 - **AI:** OpenAI GPT API
-- **Environment:** python-dotenv for API keys and DB credentials
